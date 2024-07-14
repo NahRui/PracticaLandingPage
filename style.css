@@ -33,6 +33,7 @@ main {
   top: 180px;
   border: 2px solid grey;
   padding: 20px;
+  color: cornflowerblue;
 }
 .features {
   position: relative;
@@ -60,11 +61,6 @@ footer {
   left: 43%;
   top: 0;
 }
-.content {
-  position: relative;
-  left: 5px;
-  top: 5px;
-}
 .titulo2 {
   position: relative;
   text-align: left;
@@ -72,4 +68,14 @@ footer {
 }
 .parrafo1 {
   color: whitesmoke;
+}
+.boton1 {
+  background-color: aquamarine;
+  color: blueviolet;
+  padding: 25px 25px;
+  text-decoration: none;
+  border-radius: 15px;
+  top: 50px;
+  position: relative;
+  cursor: pointer;
 }
